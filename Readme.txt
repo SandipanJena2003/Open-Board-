@@ -1,0 +1,1 @@
+This is a Open board project(similar to MS-Paint) it has tools like pencil,eraser,sticky notes,upload and download options along with undo and redo buttons 
